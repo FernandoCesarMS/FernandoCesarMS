@@ -6,8 +6,8 @@
 </br>
 <div align="center">
   <a href="https://github.com/FernandoCesarMS">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCesarMS&layout=compact&langs_count=7&theme=dracula"/>
-    <img align="right" alt="gato" src="https://cdn.discordapp.com/attachments/879815405718355978/934257585161404547/CatCatsGIF.gif" height="200em">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCesarMS&layout=compact&langs_count=7&theme=dracula"/>
+    <img align="right" alt="gato" src="https://cdn.discordapp.com/attachments/879815405718355978/934257585161404547/CatCatsGIF.gif" height="220em">
 </div>
   </br>
  <div align="center"> 
